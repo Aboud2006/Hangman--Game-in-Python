@@ -1,0 +1,54 @@
+Name: Abdullah Alghawi
+Date: 2025-12-14
+----------------------------------------
+Welcome to Hangman Game!
+Guess the word:  _ _ _ _ _ _ _ _ _ 
+
+Enter a letter: F
+Wrong guess! Tries left: 5
+_ _ _ _ _ _ _ _ _ 
+
+Enter a letter: L
+Good guess!
+_ _ _ _ l _ _ _ _ 
+
+Enter a letter: R
+Good guess!
+_ _ _ _ l _ _ _ r 
+
+Enter a letter: C
+Wrong guess! Tries left: 4
+_ _ _ _ l _ _ _ r 
+
+Enter a letter: F
+You already guessed that letter!
+_ _ _ _ l _ _ _ r 
+
+Enter a letter: Q
+Wrong guess! Tries left: 3
+_ _ _ _ l _ _ _ r 
+
+Enter a letter: P
+Good guess!
+_ _ _ _ l _ p _ r 
+
+Enter a letter: Z
+Wrong guess! Tries left: 2
+_ _ _ _ l _ p _ r 
+
+Enter a letter: O
+Good guess!
+_ _ _ _ l o p _ r 
+
+Enter a letter: W
+Wrong guess! Tries left: 1
+_ _ _ _ l o p _ r 
+
+Enter a letter: S
+Wrong guess! Tries left: 0
+_ _ _ _ l o p _ r 
+
+Game Over! The word was: developer
+
+
+** Process exited - Return Code: 0 **
